@@ -19,7 +19,7 @@ Earlier versions were built with the CloudCannon component starter. The visual e
 ## Quick start
 
 ```bash
-git clone https://github.com/trueberryless-org/trueberryless-org
+git clone https://github.com/trueberryless/trueberryless-org
 pnpm install
 pnpm dev
 ```
@@ -61,4 +61,4 @@ This organization is maintained by [trueberryless](https://felixs.dev). We are a
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/trueberryless-org/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/trueberryless-org/blob/main/LICENSE) for more information.

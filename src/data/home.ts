@@ -23,7 +23,7 @@ export const hero = {
     {
       text: "View on GitHub",
       hideText: false,
-      link: "https://github.com/trueberryless-org",
+      link: "https://github.com/trueberryless",
       iconName: "",
       iconPosition: "before",
       variant: "outline",
@@ -55,14 +55,14 @@ export const features = {
       title: "Starlight Locomotives",
       description:
         "A specialized collection of engines designed to drive better documentation. Explore our full range of Starlight plugins.",
-      link: "https://github.com/search?q=trueberryless-org%2Fstarlight-+in%3Aname&type=repositories&s=stars&o=desc",
+      link: "https://github.com/search?q=trueberryless%2Fstarlight-+in%3Aname&type=repositories&s=stars&o=desc",
       icon: "",
     },
     {
       title: "The Blueprint Engine",
       description:
         "Our central synchronization hub. Standardizing LICENSE, GitHub Workflows, and Renovate configs across the entire organization.",
-      link: "https://github.com/trueberryless-org/template-files",
+      link: "https://github.com/trueberryless/template-files",
       icon: "",
     },
     {
@@ -85,21 +85,21 @@ export const projects = {
     {
       name: "Starlight Sidebar Topics Dropdown",
       description: "A dropdown topic list for the Starlight Sidebar Topics plugin.",
-      link: "https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown",
+      link: "https://github.com/trueberryless/starlight-sidebar-topics-dropdown",
       stars: "44",
     },
     {
       name: "Starlight View Modes",
       description:
         "A Starlight plugin adding different view modes, like Zen mode, to your documentation.",
-      link: "https://github.com/trueberryless-org/starlight-view-modes",
+      link: "https://github.com/trueberryless/starlight-view-modes",
       stars: "36",
     },
     {
       name: "Awesome Starlight",
       description:
         "A curated list of high-quality resources and plugins related to the Astro Starlight framework.",
-      link: "https://github.com/trueberryless-org/awesome-starlight",
+      link: "https://github.com/trueberryless/awesome-starlight",
       stars: "12",
     },
   ],
@@ -146,7 +146,7 @@ export const cta = {
     {
       text: "Contribute on GitHub",
       hideText: false,
-      link: "https://github.com/trueberryless-org",
+      link: "https://github.com/trueberryless",
       iconName: "social/github",
       iconPosition: "before",
       variant: "outline",
