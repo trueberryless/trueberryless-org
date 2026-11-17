@@ -69,7 +69,7 @@ export const features = {
       title: "The Conductor's Blog",
       description:
         "Technical deep-dives and Starlight insights from the maintainer. A personal log of development, architecture, and OSS.",
-      link: "https://blog.trueberryless.org",
+      link: "https://leaflet.pub/p/felixs.dev",
       icon: "",
     },
   ],
@@ -137,7 +137,7 @@ export const cta = {
     {
       text: "Meet the Maintainer",
       hideText: false,
-      link: "https://trueberryless.org",
+      link: "https://felixs.dev",
       iconName: "user",
       iconPosition: "before",
       variant: "primary",
