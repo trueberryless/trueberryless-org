@@ -26,11 +26,11 @@ test.describe("landing page", () => {
   test("has canonical and Open Graph metadata", async ({ page }) => {
     await expect(page.locator('link[rel="canonical"]').first()).toHaveAttribute(
       "href",
-      "https://trueberryless-org.trueberryless.org/"
+      "https://trueberryless-org.netlify.app/"
     );
     await expect(page.locator('meta[property="og:image"]')).toHaveAttribute(
       "content",
-      "https://trueberryless-org.trueberryless.org/og-image.png"
+      "https://trueberryless-org.netlify.app/og-image.png"
     );
     await expect(page.locator('link[rel="icon"]')).toHaveAttribute("href", "/favicon.svg");
   });

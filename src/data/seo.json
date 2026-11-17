@@ -1,6 +1,6 @@
 {
   "name": "trueberryless-org",
-  "url": "https://trueberryless-org.trueberryless.org",
+  "url": "https://trueberryless-org.netlify.app",
   "description": "Open source tools and libraries for the modern developer ecosystem.",
   "logoSource": "/images/logo.svg",
   "ogImage": "/og-image.png",
